@@ -29,7 +29,7 @@
     "passport-facebook": "~2.0.0",
     "passport-twitter": "~1.0.2",
     "passport-github": "~0.1.5",
-    "passport-google-oauth": "~0.1.5",
+    "passport-google-oauth": "~2.0.0",
     "underscore": "~1.5.2",
     "async": "~0.2.9",
     "view-helpers": "~0.1.3",
