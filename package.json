@@ -42,7 +42,7 @@
     "bcryptjs": "~1.0.4",
     "socket.io-client": "~0.9.16",
     "sinon": "~1.7.3",
-    "console-stamp": "~0.1.1"
+    "console-stamp": "~0.2.9"
   },
   "devDependencies": {
     "supertest": "~0.8.0",
