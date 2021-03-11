@@ -38,7 +38,7 @@
     "grunt": "~0.4.1",
     "grunt-cli": "~0.1.9",
     "grunt-bower-task": "~0.4.0",
-    "socket.io": "~0.9.16",
+    "socket.io": "~4.0.0",
     "bcryptjs": "~1.0.4",
     "socket.io-client": "~0.9.16",
     "sinon": "~1.7.3",
